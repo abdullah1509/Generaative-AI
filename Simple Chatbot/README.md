@@ -31,6 +31,13 @@ The chatbot is built using:
 * Python 3.8 or higher
 * pip (Python package manager)
 
+### Steps
+
+### 1. Clone the repository:
+```
+git clone https://github.com/abdullah1509/Generative-AI.git
+cd Simple Chatbot
+```
 
 ---
 
