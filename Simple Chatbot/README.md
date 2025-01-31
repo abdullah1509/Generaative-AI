@@ -39,6 +39,12 @@ git clone https://github.com/abdullah1509/Generative-AI.git
 cd Simple Chatbot
 ```
 
+### 2. Install the required dependencies:
+```
+pip install -r requirements.txt
+```
+
+
 ---
 
 ## How It Works
