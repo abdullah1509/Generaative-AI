@@ -34,7 +34,7 @@ The chatbot is built using:
 * **Reward Calculation:** The reward is calculated based on the sentiment of the bot's response (positive, negative, or neutral).
 * **Training:** The chatbot updates its policy network using Q-learning and stores the experience in a replay buffer.
 * **Conversation History:** The conversation history is updated and displayed in the Streamlit interface.
-
+___
 
 ## Dependencies
 The project uses the following Python libraries:
