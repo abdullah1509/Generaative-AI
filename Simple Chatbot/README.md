@@ -43,3 +43,9 @@ The project uses the following Python libraries:
 * ```streamlit:``` For building the web interface.
 * ```numpy:``` For numerical operations.
 * ```scipy:``` For sentiment analysis.
+
+You can install all dependencies using:
+```
+pip install -r requirements.txt
+```
+
