@@ -25,6 +25,14 @@ The chatbot is built using:
 * **Conversation History:** The chatbot maintains a history of the conversation for context-aware responses.
 ---
 
+## Installation
+
+### Prerequisites
+* Python 3.8 or higher
+* pip (Python package manager)
+
+
+---
 
 ## How It Works
 * **User Input:** The user types a message in the Streamlit interface.
