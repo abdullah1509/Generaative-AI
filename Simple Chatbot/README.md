@@ -50,6 +50,20 @@ streamlit run simplechat.py
 You'll be redicrted to web browser accessing the chatbot. If not then open your browser and go to ```http://localhost:8501``` to interact with the chatbot.
 
 
+## Project Structure
+```
+reinforcement-learning-chatbot/
+├── simplechat.py            # Main Python script for the chatbot
+├── README.md                # Project documentation
+├── requirements.txt         # List of dependencies
+├── screenshots/             # Folder containing project screenshots
+│   ├── chatbot_interface.png
+│   ├── conversation_history.png
+│   └── chatbot_screenshot.png
+└── .gitignore               # Files and folders to ignore in Git
+```
+
+
 ## How It Works
 * **User Input:** The user types a message in the Streamlit interface.
 * **State Representation:** The chatbot encodes the conversation history and extracts the last hidden state from the DialoGPT model as the state representation.
