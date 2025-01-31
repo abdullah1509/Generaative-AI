@@ -44,6 +44,14 @@ cd Simple Chatbot
 pip install -r requirements.txt
 ```
 
+### 3. Run the Streamlit app:
+```
+streamlit run simplechat.py
+```
+
+### 4. Access the chatbot:
+You'll be redicrted to web browser accessing the chatbot. If not then open your browser and go to ```http://localhost:8501``` to interact with the chatbot.
+
 
 ---
 
